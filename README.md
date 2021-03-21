@@ -30,7 +30,7 @@ Notch the case to provide space for the main chip and components - I used a drem
 Solder short jumper wires as shown - there isn't much room for these, so keep them short like this.  They will provide space between the board and components beneath it - you could put some electrical tape on the bottom of the board too if you're worried about shorting things together, but I haven't had a problem with that (yet).
 
 ![20210307_114742](https://user-images.githubusercontent.com/2180300/111909104-284ecb00-8a19-11eb-9842-43a411320ed8.jpg)
-![20210307_115118](https://user-images.githubusercontent.com/2180300/111909108-2a188e80-8a19-11eb-907b-049a86a9b7c2.jpg)
+![20210307_115118](https://user-images.githubusercontent.com/2180300/111915869-8a1d2e00-8a35-11eb-8e0c-dca0a194c069.jpg)
 
 Put the case back together.
 
