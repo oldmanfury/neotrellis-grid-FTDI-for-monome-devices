@@ -23,9 +23,15 @@ Bend the two pin remnants up as shown
 
 Notch the case to provide space for the main chip and components - I used a dremel tool that looks like a drill bit - maybe a cutting wheel would work better?  Drill holes that match the two remaining mounting-pins.  I got these wrong the first time, and found that holding the board where it would go and moving side to side and forwards and backwards scratched the pin positions into the surface enough for me to drill them in the right place.
 
-![20210307_112917](https://user-images.githubusercontent.com/2180300/111909101-25ec7100-8a19-11eb-8979-ab70c5f706d7.jpg)
 ![20210307_114154](https://user-images.githubusercontent.com/2180300/111909103-271d9e00-8a19-11eb-9c63-844fbb061c08.jpg)
+
+Solder short jumper wires as shown - there isn't much room for these, so keep them short like this.  They will provide space between the board and components beneath it - you could put some electrical tape on the bottom of the board too if you're worried about shorting things together, but I haven't had a problem with that (yet).
 
 ![20210307_114742](https://user-images.githubusercontent.com/2180300/111909104-284ecb00-8a19-11eb-9842-43a411320ed8.jpg)
 ![20210307_115118](https://user-images.githubusercontent.com/2180300/111909108-2a188e80-8a19-11eb-907b-049a86a9b7c2.jpg)
+
+Put the case back together.
+
 ![20210307_115556](https://user-images.githubusercontent.com/2180300/111909113-2b49bb80-8a19-11eb-8512-58ec77bb3722.jpg)
+
+I will probably drop some screws and spacers on either side of the boards to keep the grid case from bowing this much.
