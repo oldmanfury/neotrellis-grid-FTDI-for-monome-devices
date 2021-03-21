@@ -17,12 +17,11 @@ De-solder all pins except the two that we won't use - these are to hold the boar
 
 ![20210307_105010](https://user-images.githubusercontent.com/2180300/111909095-2258ea00-8a19-11eb-92a9-3b828d4f17b9.jpg)
 
-Bend the pins up 
+Bend the two pin remnants up as shown 
 
-![20210307_105056](https://user-images.githubusercontent.com/2180300/111909097-238a1700-8a19-11eb-84fc-05d4770f9f1b.jpg)
 ![20210307_105742](https://user-images.githubusercontent.com/2180300/111909099-24bb4400-8a19-11eb-84fa-01a27418c6b6.jpg)
 ![20210307_112917](https://user-images.githubusercontent.com/2180300/111909101-25ec7100-8a19-11eb-8979-ab70c5f706d7.jpg)
-![20210307_114154](https://user-images.githubusercontent.com/2180300/111909103-271d9e00-8a19-11eb-9c63-844fbb061c08.jpg)
+
 ![20210307_114742](https://user-images.githubusercontent.com/2180300/111909104-284ecb00-8a19-11eb-9842-43a411320ed8.jpg)
 ![20210307_115118](https://user-images.githubusercontent.com/2180300/111909108-2a188e80-8a19-11eb-907b-049a86a9b7c2.jpg)
 ![20210307_115556](https://user-images.githubusercontent.com/2180300/111909113-2b49bb80-8a19-11eb-8512-58ec77bb3722.jpg)
