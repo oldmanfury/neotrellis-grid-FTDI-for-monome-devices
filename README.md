@@ -1,5 +1,5 @@
 # neotrellis_teensy_FTDI
-neotrellis grid modification with color palette and baud rate selector for use with norns, teletype, ansible, and other monome eco-system devices
+neotrellis grid modification with intensity, color palette, and baud rate selector for use with norns, teletype, ansible, and other monome eco-system devices.
 
 ![20210321_105515](https://user-images.githubusercontent.com/2180300/111915689-c2703c80-8a34-11eb-8a7a-a64c673d4788.jpg)
 
