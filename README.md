@@ -1,7 +1,9 @@
 # neotrellis_teensy_FTDI
 neotrellis grid modification with color palette and baud rate selector for use with norns, teletype, ansible, and other monome eco-system devices
 
-This outlines how to modify a neotrellis grid that you have built following instructions from https://github.com/okyeron/neotrellis-monome
+![20210321_105515](https://user-images.githubusercontent.com/2180300/111915689-c2703c80-8a34-11eb-8a7a-a64c673d4788.jpg)
+
+This repository outlines how to modify a neotrellis grid that you have built following instructions from https://github.com/okyeron/neotrellis-monome
 
 You will need to set up an FTDI board as described by https://github.com/mcleinn/neotrellis-monome-for-teletype-via-ftdi  I basically followed his instructions, but found that a huge amount of tweaking / sequencing of events was required to select the appropriate baud rate and get all devices to recognize the grid.  At this point, norns is a little finicky - I find that I have to initialize the grid while connected to my norns shield, then reset the norns to get it to be recognized.  A minor inconvenience that might be fixed in the future.
 
