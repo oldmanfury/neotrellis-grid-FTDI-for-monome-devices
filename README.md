@@ -35,3 +35,10 @@ Put the case back together.
 ![20210307_115556](https://user-images.githubusercontent.com/2180300/111909113-2b49bb80-8a19-11eb-8512-58ec77bb3722.jpg)
 
 I will probably drop some screws and spacers on either side of the boards to keep the grid case from bowing this much.
+
+# Using the code
+The grid boots up to a device/palette/intensity selector screen.  Lower left corner selects device - if the intensity selection lights (leftmost column) are yellow, the baud rate is set for teletype/Ansible/others.  Press the lower left to toggle that column to white for norns.  Press one of the yellow/white buttons to make the grid brighter / dimmer overall.  Then press button anywhere within a color palette row to choose a color scheme, and the grid should wake up and speak with your monome hardware.  You might need to reset the norns-shield to get it recognized.
+
+At any time, press the three lower right hand corner buttons and release to return to this menu.
+
+I used an eyedropper program to get RGB values from these palettes: https://matplotlib.org/tutorials/colors/colormaps.html  If someone points me at a palette they prefer for color-blindness or sight issues, I'd be happy to add it.
